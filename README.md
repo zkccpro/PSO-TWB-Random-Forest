@@ -8,7 +8,7 @@ This code has been tested on Ubantu19.02,using GNU-GDB-VSCode.
 3. Open the folder in VScode to debug and run!
 4. Make improvement when you need.
 
-# Have problems when you using this code?
+# Having problems when using this code?
 Welcome to email me any time!  
 Email: zkcc20164020@126.com
 
